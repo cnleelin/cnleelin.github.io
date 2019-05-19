@@ -2,6 +2,10 @@
 
 <a href="https://www.bilibili.com/video/av51168084/">演示视频</a>
 
+<a href="https://github.com/WOA-Project/MSM8994-8992-NT-ARM64-Drivers">以下大部分内容来自github WOA项目(点击可进入源地址)</a>
+
+<h3>微信:supermachin</h3>
+
 <h1>TEST 1</h1>
 <h2>TEST 2</h2>
 <h3>TEST 3</h3>
