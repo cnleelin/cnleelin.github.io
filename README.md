@@ -1,10 +1,11 @@
 ## Lumia950XL win10arm项目中文网/cnLeeLin/vesion：beta20190517
 
 <a href="https://www.bilibili.com/video/av51168084/">演示视频</a>
-
+<h3>讨论QQ群：129348124</h3>
+目前笔者设备只有lumia950xl 所以以950xl为主 之后如果入手950和rx-130会相对应更新
 <a href="https://github.com/WOA-Project/MSM8994-8992-NT-ARM64-Drivers">以下大部分内容来自github WOA项目(点击可进入源地址)</a>
 
-<h3>微信:supermachin</h3>
+
 
 <h1>TEST 1</h1>
 <h2>TEST 2</h2>
