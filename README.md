@@ -1,4 +1,4 @@
-## Lumia950XL win10arm项目中文网/cnLeeLin/vesion：beta20190517
+## Lumia950XL win10arm项目主题网/cnLeeLin/vesion：beta20190517
 
 <a href="https://www.bilibili.com/video/av51168084/">演示视频</a>
 <h3>讨论QQ群：129348124</h3>
