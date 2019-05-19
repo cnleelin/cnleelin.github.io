@@ -2,9 +2,18 @@
 
 <a href="https://www.bilibili.com/video/av51168084/">演示视频</a>
 <h3>讨论QQ群：129348124</h3>
-目前笔者设备只有lumia950xl 所以以950xl为主 之后如果入手950和rx-130会相对应更新
+<h3>目前笔者设备只有lumia950xl 所以以950xl为主 之后如果入手950和rx-130会相对应更新</h3>
 <a href="https://github.com/WOA-Project/MSM8994-8992-NT-ARM64-Drivers">以下大部分内容来自github WOA项目(点击可进入源地址)</a>
 
+目前不支持驱动5/20：
+虹膜生物识别传感器（缺少驱动程序）
+相机（缺少驱动程序）
+所有传感器（ALS除外）
+扬声器的音量控制（卡在100％）
+振动电机
+通过USB-C输出HDMI
+缺少x86 DirectX支持。
+调频收音机
 
 
 <h1>TEST 1</h1>
