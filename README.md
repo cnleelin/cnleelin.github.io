@@ -1,6 +1,6 @@
-## cnLeeLin/vesion：beta20190517
+## Lumia950XL刷win10arm中文网/cnLeeLin/vesion：beta20190517
 
-<a href="https://space.bilibili.com/420322">cnleelin</a>
+<a href="https://www.bilibili.com/video/av51168084/">演示视频</a>
 
 <h1>TEST 1</h1>
 <h2>TEST 2</h2>
@@ -17,7 +17,7 @@
         <title></title>
     </head>
     <body>
-        <h1>留言板</h1>
+        <h1>留言板无后台测试中，评论无效</h1>
         <textarea id="memo" cols="60" rows="10"></textarea>
         <input type="button" value="追加内容" onclick="saveStorage('memo')" />
         <input type="button" value="初始化" onclick="clearStorage('msg')" />
@@ -72,15 +72,3 @@
     </body>
 </html>
 
-<style>
-.gc-comments {font-size: 12px;}
-</style>
-<script src="http://nimojs.github.io/github-comments/gc.js"></script>
-<div class="gc-comments" data-repos="nimojs/github-comments" data-issues="1" >
-    <div class="gc-comments-title">
-        评论
-    </div>
-    <div class="gc-comments-info">
-        想在此留下评论，请访问 <a href="{{issues_link}}">{{issues_link}}</a> 提交评论
-    </div>
-</div>
